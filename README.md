@@ -1,6 +1,6 @@
 ---
 
-type: multiclass-classification
+problem: multiclass-classification
 short_description: Build a Convolutional Neural Network to predict the class of an image.
 dataset: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 git_url: https://github.com/nikolaos-mavromatis/cifar-10-image-classification

@@ -1,5 +1,4 @@
 ---
-
 problem: multiclass-classification
 short_description: Build a Convolutional Neural Network to predict the class of an image.
 dataset: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
@@ -17,7 +16,6 @@ tags:
     multilabel-image-classification
     tensorflow
     keras
-
 ---
 
 # cifar-10-image-classification
